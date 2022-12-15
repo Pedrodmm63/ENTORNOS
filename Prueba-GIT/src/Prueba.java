@@ -5,5 +5,6 @@ public class Prueba {
 	
 	private String nombreprueba2;
 	
+	//esto es una prueba hecha en github para hacer un pull
 	
 }
